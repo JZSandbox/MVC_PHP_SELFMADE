@@ -1,0 +1,15 @@
+{
+    "name": "fry/framework",
+    "autoload": {
+        "psr-4": {
+            "Fry\\Framework\\": "src/",
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JERZY"
+        }
+    ],
+    "require": {}
+}
